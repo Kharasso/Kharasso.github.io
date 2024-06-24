@@ -14,6 +14,13 @@ redirect_from:
 
 {% include base_path %}
 
+Skills and Expertise
+======
+* Programming: Python, Java, C#, C++, JavaScript, HTML, CSS, SQL
+* Frameworks & Libraries: Pandas, NumPy, scikit-learn, NLTK, spaCy, PyTorch, D3.js, Matplotlib, FastAPI, Flask
+* Cloud Technologies & DevOps: AWS, Google Cloud, Git, Docker
+* Other Software and Technology: Unity3D, Rhino3D, Adobe Suite, EMQX
+
 Education
 ======
 * **Georgia Institute of Technology**
@@ -70,13 +77,6 @@ Work experience
   * At Harvard Learning Innovation and Technology Lab, I worked on the development of a Microsoft Kinect sensor data processing library for an AR-assisted learning experiment for Physics. I focused on parallelizing data cleansing, transformation, and clustering procedures to optimize efficiency. Achieved a substantial reduction in processing time, contributing to the creation of a scalable and robust library for analyzing sensor data from human subjects engaged in AR learning experiments.
 
   
-Skills
-======
-* Programming: Python, Java, C#, C++, JavaScript, HTML, CSS, SQL
-* Frameworks & Libraries: Pandas, NumPy, scikit-learn, NLTK, spaCy, PyTorch, D3.js, Matplotlib, FastAPI, Flask
-* Cloud Technologies & DevOps: AWS, Google Cloud, Git, Docker
-* Other Software and Technology: Unity3D, Rhino3D, Adobe Suite, EMQX
-
 Languages
 ======
 * Mandarin Chinese (Native)
