@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2018-04-15-paper-title-number-1
 excerpt: 'In 1940, Walter Benjamin wrote in his essay Über den Begriff der Geschichte about his impression of the Angel of History, whose face is turned towards the past and who sees one single catastrophe where we see the appearance of a chain of events.'
 date: 2018-04-15
+authors: "H. Zhang"
 venue: 'Oblique: Critical Conservation (OBL/QUE) Vol. 2'
 # slidesurl: 'https://issuu.com/gsdharvard/docs/brick'
 paperurl: 'https://www.criticalconservation.com/#/oblique2/'

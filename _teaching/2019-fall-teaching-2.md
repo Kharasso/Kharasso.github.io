@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a teaching assistant for Harvard CS 50, I assisted Prof. David Malan in delivering an effective and supportive learning experience to students in one of the most rigorous introductory computer science courses. My responsibilities included conducting review sessions, holding office hours, and assisting with grading and feedback to ensure students grasped various programming concepts and problem-solving techniques.
 
 Heading 1
 ======

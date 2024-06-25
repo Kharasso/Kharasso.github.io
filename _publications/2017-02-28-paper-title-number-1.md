@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2017-02-28-paper-title-number-1
 excerpt: 'Cities, as extensive entities that comprise a large amount of parts of varied scales and diverse natures, when viewed through scopes of different dimensions, provide us with different focal points into the matters of urban momentum and the socioeconomics factors that lie beneath them.'
 date: 2017-02-28
+authors: "H. Zhang"
 venue: 'Shanghai Regeneration: Five Paradigms'
 # slidesurl: 'https://issuu.com/gsdharvard/docs/brick'
 paperurl: 'https://appliedresearchanddesign.com/product/shanghai-regeneration'

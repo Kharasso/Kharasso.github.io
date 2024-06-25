@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a teaching fellow for Harvard ANTHRO 1250, I assisted Prof. Peter der Manuelian in teaching Harvard students 3D modeling of Egyptian mastabas using a cloud-based 3D modeling platform developed by Dassault Systèmes 3D Experience Lab. My role involved providing technical support, developing course materials, and facilitating discussions on topics such as the authenticity of digital reconstructions, the ethics of virtual repatriation, and curation of virtual exhibitions.
 
 Heading 1
 ======
