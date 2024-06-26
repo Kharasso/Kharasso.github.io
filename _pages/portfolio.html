@@ -12,3 +12,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+{% if site.portfolio_short|length > 0 %}
+  <br/><br/>
+  <h1 class="page_title">Workshops/Hackathons</h1>
+{% endif %}
+
+{% for post in site.portfolio_short %}
+  {% include archive-single.html %}
+{% endfor %}
+

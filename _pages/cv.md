@@ -26,9 +26,9 @@ Education
 * **Georgia Institute of Technology**
   * M.S. in Computer Science, 2025 (expected)
 * **Harvard University**
-  * Master of Architecture + M.Des in Technology (Concurrent), 2020
+  * Master of Architecture + M.Des in Technology (Concurrent), 2014-2020
 * **Zhejiang University**
-  * B.S. in Civil Engineering, 2013
+  * B.S. in Civil Engineering, 2009-2013
 
 Work experience
 ======
