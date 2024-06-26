@@ -62,19 +62,26 @@ Work experience
   * **Localarchitecture**
   * **2018.03 - 2018.09, Lausanne, Switzerland**
   * Supervisor: Antoine Robert-Grandpierre, Laurent Saurer
-  * At Harvard Learning Innovation and Technology Lab, I worked on the development of a Microsoft Kinect sensor data processing library for an AR-assisted learning experiment for Physics. I focused on parallelizing data cleansing, transformation, and clustering procedures to optimize efficiency. Achieved a substantial reduction in processing time, contributing to the creation of a scalable and robust library for analyzing sensor data from human subjects engaged in AR learning experiments.
-
+  * As an architect, the projects I worked on includes:
+    1. The architecture competition for the new Swiss Embassy building in Beijing, for which I contributed to conceptual design, architectural drawings, and renderings for the project.
+    2. The architecture competition for the Dôle Pavilion, a winter sports welcome pavilion at the cross-border area of La Dôle between Switzerland and France. I contributed conceptual design, architectural drawings, and renderings for the project. (<a href='https://localarchitecture.ch/projects/dole-pavilion/'>Project Link</a>)
+    3. The schematic design for the Urban Redevelopment Project in the center of Vétroz, Valais, Switzerland. (<a href='https://localarchitecture.ch/projects/vetroz/'>Project Link</a>)
+ 
 * **Architect**: 
   * **ALA Architects**
   * **2017.09 - 2018.02, Helsinki, Finland**
   * Supervisor: Antti Nousjoki, Juho Grönholm
-  * At Harvard Learning Innovation and Technology Lab, I worked on the development of a Microsoft Kinect sensor data processing library for an AR-assisted learning experiment for Physics. I focused on parallelizing data cleansing, transformation, and clustering procedures to optimize efficiency. Achieved a substantial reduction in processing time, contributing to the creation of a scalable and robust library for analyzing sensor data from human subjects engaged in AR learning experiments.
+  * As an architect, the projects I worked on includes:
+    1. The architecture competition for the new school at Tuusula, Finland, for which I contributed to architectural drawings and renderings for the project.
+    2. The schematic design, architectural drawings, 3D modeling, and rendering configurations for the new terminal building (T2) of Helsinki Airport. (<a href='https://ala.fi/work/helsinki-airport-terminal-2-expansion/'>Project Link</a>)
 
 * **Intern Architect**: 
   * **Rick Joy Architects**
   * **2016.05 - 2016.08, Tucson, Arizona**
   * Supervisor: Philipp Neher, Rick Joy
-  * At Harvard Learning Innovation and Technology Lab, I worked on the development of a Microsoft Kinect sensor data processing library for an AR-assisted learning experiment for Physics. I focused on parallelizing data cleansing, transformation, and clustering procedures to optimize efficiency. Achieved a substantial reduction in processing time, contributing to the creation of a scalable and robust library for analyzing sensor data from human subjects engaged in AR learning experiments.
+  * As an intern architect, the projects I worked on includes:
+    1. The schematic design, 3D modeling, and rendering for the masterplan, the Jetty, various mountain suites and treehouses, for the One&Only Mandarina Resort at Nayarit, Mexico. (<a href='https://studiorickjoy.com/work/mandarina'>Project Link</a>)
+    2. I contributed to the conceptual design and early renderings for a single family residence of 3 acres, or 12,000 square meters in Southern California.
 
   
 Languages
