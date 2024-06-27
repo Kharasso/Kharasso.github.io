@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I am Huopu Zhang, a master's student in Computer Science at Georgia Tech. Before joining Georgia Tech, I spent over three years as a software engineer at Morgan Stanley. My educational background includes a Master of Architecture from Harvard University and a Bachelor of Science in Civil Engineering from Zhejiang University. I have interned as a software engineer at Dassault Systèmes and worked as an architect in architecture firms in Finland, Switzerland, and Arizona.
+Hi, I am Huopu Zhang, a master's student in Computer Science at Georgia Tech. Before joining Georgia Tech, I spent over three years as a software engineer at Morgan Stanley. My educational background includes a Master of Architecture from Harvard University and a Bachelor of Science in Civil Engineering from Zhejiang University. I have interned as a software engineer at Dassault Systèmes and worked as an architect in architecture firms in Finland, Switzerland, and Arizona.
 
 I like reading about research in NLP and ML, especially those focusing on low-resource languages and historical texts. I also enjoy reading about media studies and grapholinguistics.
 
