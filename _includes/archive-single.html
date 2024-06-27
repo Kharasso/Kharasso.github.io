@@ -56,10 +56,10 @@
     
     {% if post.citation and post.paperurl and post.slidesurl %}
       <!-- <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Link To Manuscript</a> | <a href="{{ post.slidesurl }}">Link To Slides</a></p> -->
-      <p><a href="{{ post.paperurl }}">Link To Manuscript</a> | <a href="{{ post.slidesurl }}">Link To Slides</a></p>
+      <p><a href="{{ post.paperurl }}">Link</a> | <a href="{{ post.slidesurl }}">Link To Slides</a></p>
     {% elsif post.citation and post.paperurl %}
       <!-- <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Link To Manuscript</a></p> -->
-      <p><a href="{{ post.paperurl }}">Link To Manuscript</a></p>
+      <p><a href="{{ post.paperurl }}">Link</a></p>
     {% elsif post.citation and post.slidesurl %}
       <!-- <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p> -->
       <p><a href="{{ post.slidesurl }}">Link To Slides</a></p>
@@ -67,7 +67,7 @@
       <!-- <p>Recommended citation: {{ post.citation }}</p> -->
       <p></p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Link To Manuscript</a></p>
+      <p><a href=" {{ post.paperurl }} ">Link</a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Link To Slides</a></p></p>
     {% endif %}

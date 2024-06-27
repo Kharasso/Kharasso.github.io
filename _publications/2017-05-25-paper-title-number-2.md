@@ -2,7 +2,7 @@
 title: "Lattice Wall"
 collection: publications
 permalink: /publication/2017-05-25-paper-title-number-1
-excerpt: 'Lattice Wall explores a construction methodology used in traditional masonry construction. This methodology uses bricks as stacked frame-like elements that are then filled to provide static integrity.'
+excerpt: "Lattice Wall explores a construction methodology used in traditional masonry construction. This methodology uses bricks as stacked frame-like elements that are then filled to provide static integrity. The project began as an exploration into an unorthodox technique of laying bricks that creates varying internal spaces and pockets within the wall, especially under a gravitation-free circumstance. The wall gradually deconstructs the brick's inherent materiality as it shifts from solid to void."
 date: 2017-05-25
 authors: "H. Zhang"
 venue: 'Brick: Thick/Thin'
