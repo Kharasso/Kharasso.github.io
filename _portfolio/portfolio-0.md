@@ -8,7 +8,7 @@ excerpt: "<p>Research Project for Gatech CS 6460 Educational Technology, 2024<br
     <a style='margin-right:15px' href='https://youtu.be/huMBcZog1vw?si=d9XENP5UiNAZ2gc8'>Demo Video<a/>
     <a style='margin-right:15px' href='https://github.com/Kharasso/prismxr'>Project Repo<a/>
 <p/>
-<img style='max-height:300px;' src='/images/prismxr.png'>"
+<img style='max-height:300px;' src='/images/prismxr_s.png'>"
 collection: portfolio
 # link: "https://github.com/Kharasso/codex_galaxiae"
 ---
