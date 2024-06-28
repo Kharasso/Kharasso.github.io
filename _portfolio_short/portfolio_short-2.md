@@ -1,5 +1,5 @@
 ---
-title: "A Visualized Spoofing Detector Utilizing a Boosted Tree model "
+title: "A Visualized Spoofing Detector On a Boosted Tree Model "
 excerpt: "<p>MIT Fintech Challenge Hackathon 2020, 1st Place<br/>
             Collaboration with Jerry Shu, Alikhan Nurlanuly Yerlan Sharipov, 2020<p/>
 <p>This project consists of a boosted Tree model trained on a 2 million dataset to predict three types of spoofing activities in the stock market and a UI that visualizes the suspicious activities on the bid and ask timestamps. The model was trained using the Xgboost package and the imbalanced raw dataset was rebalanced using stratified bootstrapping. The
