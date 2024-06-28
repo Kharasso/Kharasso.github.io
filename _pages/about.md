@@ -15,7 +15,13 @@ I like reading about research in NLP and ML, especially those focusing on low-re
 
 Research Interest
 ======
-My research interest lies in the study of signs, symbols, and texts from different contexts using computational methods. I am very drawn to the investigation of contemporary writing systems, which includes modern symbols like emojis, and I am highly interested in quantitative analyses of graphetics and graphemics across diverse texts and digital artifacts found in new media and social platforms. Additionally, I am keen on investigating the impact of emerging technologies, such as augmented and virtual reality (AR/VR), and the associated 3D-formatted media materials, on learning and acquisition processes. I like to explore how these innovations influence our perceptions, epistemological frameworks, and the formation of memories in the digital era.
+I have always been fascinated by signs and symbols, texts and contexts, how we perceive and process them, and how they shape our learning, communication, and decision making. Some of the research domains I am interested in include:
+
+<!-- I like to explore how these innovations influence our perceptions, epistemological frameworks, and the formation of memories in the digital era. -->
+1. Computational analyses of textual data from varied historical/cultural/social contexts. 
+2. Quantitative analyses of the etics and emics of the graphical aspect of language data across diverse texts and digital artifacts found in new media and social platforms. I am also very interested in contemporary writing systems, which include modern symbols like emojis. 
+3. Intelligent systems, how they process various modes of signals and establish a context of their surroundings, and how this context influences their behaviors.
+4. The impact of emerging technologies, such as augmented and virtual reality (AR/VR), and the associated artifacts and materials in 3D format, on learning and acquisition processes.
 
 <!-- Getting started
 ======
