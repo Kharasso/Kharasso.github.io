@@ -24,7 +24,7 @@ Skills and Expertise
 Education
 ======
 * **Georgia Institute of Technology**
-  * M.S. in Computer Science, 2025 (expected)
+  * M.S. in Computer Science, 2025 Summer (expected)
 * **Harvard University**
   * Master of Architecture + M.Des in Technology (Concurrent), 2014-2020
 * **Zhejiang University**
@@ -43,6 +43,7 @@ Work experience
   * **2021.01 - 2024.04, New York, New York**
   * Supervisor: Rati Sharma
   * In the Prime Brokerage Content space, I led the research initiative applying NLP to conduct topic and trend analysis of communication data between financial advisors and clients. This included developing models to identify key discussion themes and emerging trends to provide actionable insights.
+  * I led the design and implementation of an array of dashboards for finance data visualization and monitoring. These frontends are built with React and, in some cases when working with legacy applications, HTML/CSS and JQuery.
   * I also led the development and enhancement of user-facing risk reviewing tools, ensuring alignment with user needs and industry standards. I managed end-to-end data pipelines, implementing seamless ETL processes for data integration using SQL, Python, and Shell scripts. I also implemented insightful data visualizations using these processed data.
 
 * **Software Engineering Intern/Digital Teaching Fellow**: 
