@@ -7,7 +7,7 @@ date: 2024-06-24
 authors: "H. Zhang"
 venue: 'arXiv'
 # slidesurl: 'https://issuu.com/gsdharvard/docs/brick'
-paperurl: '/'
+paperurl: 'https://arxiv.org/abs/2407.09528'
 citation: '/'
 ---
 
