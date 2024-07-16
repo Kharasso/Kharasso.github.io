@@ -19,7 +19,7 @@ Skills and Expertise
 * Programming: Python, Java, C#, C++, JavaScript, HTML, CSS, SQL
 * Frameworks & Libraries: Pandas, NumPy, scikit-learn, NLTK, spaCy, PyTorch, D3.js, Matplotlib, FastAPI, Flask
 * Cloud Technologies & DevOps: AWS, Google Cloud, Git, Docker
-* Other Software and Technology: Unity3D, Rhino3D, Adobe Suite, EMQX
+* Other Software and Technology: Unity3D, Rhino3D, ArcGIS, EMQX, Camtasia, Adobe Suite
 
 Education
 ======
@@ -40,7 +40,7 @@ Work experience
 
 * **Software Engineer**: 
   * **Morgan Stanley, Institutional Securities Technology**
-  * **2021.01 - 2024.04, New York, New York**
+  * **2021.01 - 2024.05, New York, New York**
   * Supervisor: Rati Sharma
   * In the Prime Brokerage Content space, I led the research initiative applying NLP to conduct topic and trend analysis of communication data between financial advisors and clients. This included developing models to identify key discussion themes and emerging trends to provide actionable insights.
   * I led the design and implementation of an array of dashboards for finance data visualization and monitoring. These frontends are built with React and, in cases involving legacy applications, HTML/CSS and JQuery.
