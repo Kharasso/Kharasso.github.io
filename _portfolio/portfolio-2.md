@@ -1,14 +1,15 @@
 ---
-title: "Astrodex - an Interactive Visualized Codex of Celestial Bodies"
-excerpt: "<p>Collaboration with Ruijun Liu, 2020<br/>
-            Built with D3.js, Aladin Lite API, and HYG 1.1 Dataset<p/>
-<p>This project aims at creating a visualized CODEX for stars that are documented in the HYG Celestial Body Dataset. On one hand, it visualizes the distribution of non-spatial features of stars, which offers a way for the audience to explore stars by shared qualities. On the other hand, it also provides the user with the opportunity to explore these selected stars in space, showing them a spatial layout and also real telescopic snapshots taken from Aladin Lite API.<p/>
+title: "Swarmalators - Visualization and Barnes-Hut Approximation"
+excerpt: "<p>Collaboration with Michael Yue and Benton Liang, 2020<br/>
+            Visualization implemented with React and D3.js. <br>Barnes Hut Approximation with parallelization implemented in C++ with OpenMP and MPI<p/>
+<p>This project is a study explores the visualization and parallelization of the ‘Swarmalator’ model for swarming-synchronizing system simulation as discussed in K. O’Keeffe
+and C. Bettstetter (2019), ‘A review of swarmalators and their potential in bio-inspired computing’. The study includes a frontend implemented in D3.js and React for storytelling and studies on the performance of parallelized implementation of both a naive pairwise algorithm and a Barnes-Hut approximation on the model. Both algorithms are implemented in C++ and parallelized with OpenMP and MPI hybrid models. Performance evaluated on AWS MPI cluster of t2.2xlarge EC2 instances.<p/>
 <p style='display: inline-block; margin-top:0; margin-bottom:0'>
-    <a style='margin-right:15px' href='https://youtu.be/5qBPBKarNQ8'>Demo Video<a/>
-    <a style='margin-right:15px' href='https://kharasso.github.io/codex_galaxiae/index.html'>Project Link<a/>
-    <a style='margin-right:15px' href='https://github.com/Kharasso/codex_galaxiae'>Project Repo<a/>
+    <a style='margin-right:15px' href='https://kharasso.github.io/swarmalator-visualization/'>Visualization/Storyboard<a/>
+    <a style='margin-right:15px' href='https://github.com/Kharasso/swarming-synchronization'>Project Link<a/>
+    <a style='margin-right:15px' href='https://github.com/Kharasso/swarming-synchronization'>Project Repo<a/>
 <p/>
-<img style='max-height:300px;' src='/images/astrocodex.png'>"
+<img style='max-height:300px;' src='/images/swarmalator3.gif'>"
 collection: portfolio
 # link: "https://github.com/Kharasso/codex_galaxiae"
 ---
