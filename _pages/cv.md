@@ -17,7 +17,7 @@ redirect_from:
 Skills and Expertise
 ======
 * Programming: Python, Java, C#, C++, JavaScript, HTML, CSS, SQL
-* Frameworks & Libraries: Pandas, NumPy, scikit-learn, NLTK, spaCy, PyTorch, D3.js, Matplotlib, FastAPI, Flask
+* Frameworks & Libraries: Pandas, NumPy, scikit-learn, NLTK, spaCy, PyTorch, OpenCV, D3.js, Matplotlib, FastAPI, Flask, React
 * Cloud Technologies & DevOps: AWS, Google Cloud, Git, Docker
 * Other Software and Technology: Unity3D, Rhino3D, ArcGIS, EMQX, Camtasia, Adobe Suite
 
